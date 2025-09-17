@@ -1,0 +1,26 @@
+body {
+   text-align: center;
+   background: linear-gradient(rgba(188, 102, 188, 0.945), aqua, wheat);
+}
+header{
+   font-style: oblique;
+   font-family: Verdana, Geneva,;
+   border: 12px
+}
+button{
+   background-color: aqua;
+}
+video{
+   height: 500px;
+   width: 400px;
+   background: linear-gradient(purple,pink,aqua);
+   border-radius: 80px;
+   padding: 20px;
+   margin-bottom: 2px;
+}
+audio{
+     padding: 20px;
+     margin-bottom: 2px;
+}
+
+
